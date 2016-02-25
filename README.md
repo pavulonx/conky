@@ -3,8 +3,6 @@ Conky in Google Now Style, a part of the [Numix Project](https://numixproject.or
 
 The font used is "[Open Sans Light](http://www.opensans.com/)".
 
-The wallpaper used in the screenshot can be found [here](http://fav.me/d5ujtpj).
-
 It includes 3 styles, light, dark and transparent.
 
 ## Installation Instructions
