@@ -1,5 +1,5 @@
-# conky
-Conky in Google Now Style, a part of the [Numix Project](https://numixproject.org/).
+# conky-now
+Conky theme in Google Now Style, a part of the [Numix Project](https://numixproject.org/).
 
 The font used is "[Open Sans Light](http://www.opensans.com/)".
 
@@ -27,6 +27,7 @@ Forked from the [work](http://satya164.deviantart.com/art/Conky-Google-Now-36654
 
 ## Similar projects
 
+- https://github.com/eu-slack/conky-now_netbooks
 - https://github.com/mariusv/conky-google-now
 
 **License**: GPL-3.0+
