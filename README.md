@@ -17,4 +17,8 @@ The WOEID is in the URL for the forecast page for that city.
 4. Add "conky" to your Startup Applications.
 5. Enjoy!
 
+## Credits
+
+Forked from the [work](http://satya164.deviantart.com/art/Conky-Google-Now-366545753) originally done by [satya164](http://satya164.deviantart.com/).
+
 **License**: GPL-3.0+
