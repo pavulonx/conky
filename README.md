@@ -10,10 +10,10 @@ It includes 3 styles, light, dark and transparent.
 1. First install "conky" if you don't have it, also ensure that you have "curl" installed:
 
        # Ubuntu/Debian
-       $ sudo apt-get install curl conky -y
+       $ sudo apt-get install conky curl
 
        # Fedora
-       $ yum install -y curl conky
+       $ sudo yum install conky curl
 2. Clone this repository to `$HOME/.conky` and make a link `$HOME/.conkyrc` to, say, `$HOME/.conky/conkyrc`.
 3. Open the file ".conkyrc" with a text editor, search for "2294941" and replace it with the WOEID of your own location.
 To find your WOEID, browse or search for your city from the [Yahoo Weather home page](https://weather.yahoo.com/).
@@ -27,6 +27,7 @@ Forked from the [work](http://satya164.deviantart.com/art/Conky-Google-Now-36654
 
 ## Similar projects
 
+- https://github.com/ploctaux/conky-google-now
 - https://github.com/eu-slack/conky-now_netbooks
 - https://github.com/mariusv/conky-google-now
 
