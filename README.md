@@ -35,4 +35,6 @@ Forked from the [work](http://satya164.deviantart.com/art/Conky-Google-Now-36654
 - https://github.com/eu-slack/conky-now_netbooks
 - https://github.com/mariusv/conky-google-now
 
-**License**: GPL-3.0+
+## License
+
+GNU General Public License (GPL-3.0+) version 3. See LICENSE.
