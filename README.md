@@ -1,14 +1,14 @@
 # conky-now
-[Conky](https://github.com/brndnmtthws/conky) theme in Google Now Style, a part of the [Numix Project](https://numixproject.org/).
+[`conky`](https://github.com/brndnmtthws/conky) theme in Google Now Style, a part of the [Numix Project](https://numixproject.org/).
 
-The font used is "[Open Sans Light](http://www.opensans.com/)".
+The font used is [Open Sans Light](http://www.opensans.com/).
 The font can be downloaded from [here](http://www.fontsquirrel.com/fonts/open-sans) ([how do I install fonts on Ubuntu?](http://askubuntu.com/questions/191778/how-to-install-fonts-fast-and-easy/191782#191782)).
 
 It includes 3 styles, light, dark and transparent.
 
 ## Installation Instructions
 
-1. First install "conky" if you don't have it, also ensure that you have "[curl](https://curl.haxx.se/)" installed:
+1. First install `conky` if you don't have it, also ensure that you have [`curl`](https://curl.haxx.se/) installed:
 
        # Ubuntu/Debian
        $ sudo apt-get install conky curl
@@ -19,10 +19,10 @@ It includes 3 styles, light, dark and transparent.
 
        $ git clone https://github.com/dudektria/conky.git $HOME/.conky
        $ ln -s $HOME/.conky/conkyrc-2-transparent $HOME/.conkyrc
-3. Open the file ".conkyrc" with a text editor, search for "455861" and replace it with the WOEID of your own location.
+3. Open the file `$HOME/.conkyrc` with a text editor, search for `455861` and replace it with the WOEID of your own location.
 To find your WOEID, browse or search for your city from the [Yahoo Weather home page](https://weather.yahoo.com/).
 The WOEID is in the URL for the forecast page for that city.
-4. Add "conky" to your Startup Applications ([instructions for Ubuntu here](http://www.omgubuntu.co.uk/2013/05/google-now-themed-conky-for-ubuntu-desktop)).
+4. Add `conky` to your Startup Applications ([instructions for Ubuntu here](http://www.omgubuntu.co.uk/2013/05/google-now-themed-conky-for-ubuntu-desktop)).
 5. Enjoy!
 
 ## Credits
@@ -37,4 +37,4 @@ Forked from the [work](http://satya164.deviantart.com/art/Conky-Google-Now-36654
 
 ## License
 
-GNU General Public License (GPL-3.0+) version 3. See LICENSE.
+GNU General Public License (GPL-3.0+) version 3. See `LICENSE`.
