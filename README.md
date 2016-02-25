@@ -1,5 +1,5 @@
 # conky-now
-Conky theme in Google Now Style, a part of the [Numix Project](https://numixproject.org/).
+[Conky](https://github.com/brndnmtthws/conky) theme in Google Now Style, a part of the [Numix Project](https://numixproject.org/).
 
 The font used is "[Open Sans Light](http://www.opensans.com/)".
 The font can be downloaded from [here](http://www.fontsquirrel.com/fonts/open-sans) ([how do I install fonts on Ubuntu?](http://askubuntu.com/questions/191778/how-to-install-fonts-fast-and-easy/191782#191782)).
@@ -8,7 +8,7 @@ It includes 3 styles, light, dark and transparent.
 
 ## Installation Instructions
 
-1. First install "conky" if you don't have it, also ensure that you have "curl" installed:
+1. First install "conky" if you don't have it, also ensure that you have "[curl](https://curl.haxx.se/)" installed:
 
        # Ubuntu/Debian
        $ sudo apt-get install conky curl
