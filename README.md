@@ -23,7 +23,7 @@ The WOEID is in the URL for the forecast page for that city.
 
 ## Credits
 
-Forked from the [work](http://satya164.deviantart.com/art/Conky-Google-Now-366545753) originally done by [satya164](http://satya164.deviantart.com/).
+Forked from the [work](http://satya164.deviantart.com/art/Conky-Google-Now-366545753) originally made by [Satyajit Sahoo](https://github.com/satya164) ([satya164](http://satya164.deviantart.com/)).
 
 ## Similar projects
 
