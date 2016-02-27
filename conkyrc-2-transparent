@@ -39,7 +39,7 @@ xftfont Open Sans Light:size=10
 override_utf8_locale yes
 
 imlib_cache_size 0
-F9F9F9
+
 # Color scheme #
 default_color FFFFFF
 
