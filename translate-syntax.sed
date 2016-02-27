@@ -19,3 +19,4 @@ $a\
 use_xft = true,
 /alignment = "tr",/s//alignment = "top_right",/
 /minimum_size = \([0-9][0-9]*\),/s//minimum_width = \1,/
+/own_window_argb_visual = "true",/s//own_window_argb_visual = true,/
